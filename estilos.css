@@ -1,0 +1,59 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  header {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+  }
+  
+  header h1 {
+    margin: 0;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  main img{
+    padding: 20px;
+    width: 500px;
+    height: 500px;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  
+  /* Estilos específicos para los productos */
+  .presentacion de nuestra empresa {
+    border: 1px solid #ccc;
+    padding: 10px;
+
+    margin-bottom: 10px;
+
+  }
+  
+  .producto img {
+    max-width: 280px;
+  }
+  
+  /* Estilos del footer */
+ 
+  
